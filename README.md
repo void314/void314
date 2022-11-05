@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200"/>
     <div id="badges">
-        <img src="https://www.codewars.com/users/void314/badges/small" alt="CodeWars Badge"/>
+        <a href="https://www.codewars.com/users/void314/stats"><img src="https://www.codewars.com/users/void314/badges/small" alt="CodeWars Badge"/></a>
         <div>
             <a href="https://codepen.io/Void_ID"><img src="https://img.shields.io/badge/codepen-mediumseagreen?logo=CodePen&logoColor=white&style=for-the-badge" alt="CodePen Badge"/></a>
         </div>
