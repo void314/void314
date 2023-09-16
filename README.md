@@ -14,7 +14,8 @@
 ## <img src="https://media.giphy.com/media/ehhABsd5nh0m4CANvZ/giphy.gif" width="30" height="30"/> About Me :
 
 - :pushpin: I am a Front-end web developer :earth_asia: from Kazakhstan.
-- :pushpin: I’m currently :man_student: study at CATEC
+- :pushpin: I studied at CATEC
+- :pushpin: I’m currently :man_student: study at Turan university.
 
 ---
 
