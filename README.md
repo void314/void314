@@ -45,6 +45,5 @@
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=void314&theme=react&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void314&theme=react&hide_border=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=void314&show_icons=true&theme=react&hide_border=true)
