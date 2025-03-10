@@ -6,12 +6,12 @@
         <a href="https://www.codewars.com/users/void314/stats" style="text-decoration: none;">
             <img src="https://www.codewars.com/users/void314/badges/small" alt="CodeWars Badge" style="border-radius: 10px;"/>
         </a>
-        <a href="https://codepen.io/Void_ID" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/codepen-mediumseagreen?logo=CodePen&logoColor=white&style=for-the-badge" alt="CodePen Badge" style="border-radius: 10px;"/>
-        </a>
     </div>
     <div style="margin-top: 20px;">
         <img src="https://komarev.com/ghpvc/?username=void314&style=flat-square&color=green" alt="GitHub counter" width="130px"/>
+        <a href="https://codepen.io/Void_ID" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/codepen-mediumseagreen?logo=CodePen&logoColor=white&style=for-the-badge" alt="CodePen Badge" style="border-radius: 10px;"/>
+        </a>
     </div>
 </div>
 
@@ -39,11 +39,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="postman" alt="postman" width="40" height="40"/>    
 </div>
 
 ---
 
 ## :fire: My Stats :
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=void314&theme=github-dark&hide_border=true&locale=ru&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+</a>
+<a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@5e96dc0b-94d4-499f-a39e-20d4618823dc/d2c86a11-572a-46ed-ac22-99817b4ee043.png" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void314&theme=react&hide_border=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=void314&show_icons=true&theme=react&hide_border=true)
