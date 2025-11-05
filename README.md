@@ -43,6 +43,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="postman" alt="postman" width="40" height="40"/>   
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1hLdlCkDK_qoaI6cqP_9xgyBgcsEM8Fk8i4yZ8siBykAoOJvQL3IO8vqXQONJsyj_Uk&usqp=CAU" title="postman" alt="payload cms" width="40" height="40"/>   
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="postman" alt="mongodb" width="40" height="40"/>   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original-wordmark.svg" title="couchdb" alt="couchdb" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" title="elysia js" alt="elysia js" width="40" height="40"/>
 </div>
 
 ---
