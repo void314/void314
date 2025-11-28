@@ -1,18 +1,24 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200"/>
-    <h1>Welcome to my profile!</h1>
-    <p></p>
-    <div id="badges" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-        <a href="https://www.codewars.com/users/void314/stats" style="text-decoration: none;">
-            <img src="https://www.codewars.com/users/void314/badges/small" alt="CodeWars Badge" style="border-radius: 10px;"/>
-        </a>
-    </div>
-    <div style="margin-top: 20px;">
-        <img src="https://komarev.com/ghpvc/?username=void314&style=flat-square&color=green" alt="GitHub counter" width="130px"/>
-        <a href="https://codepen.io/Void_ID" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/codepen-mediumseagreen?logo=CodePen&logoColor=white&style=for-the-badge" alt="CodePen Badge" style="border-radius: 10px;"/>
-        </a>
-    </div>
+<div align="center">
+
+# Welcome to my profile!
+
+<!-- spacer: 20px вертикального отступа -->
+<img src="https://via.placeholder.com/1x20" alt="" width="1" height="20" />
+
+<p>
+  <a href="https://www.codewars.com/users/void314/stats">
+    <img src="https://www.codewars.com/users/void314/badges/small" alt="CodeWars Badge" style="border-radius: 10px;" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=void314&style=flat-square&color=green" alt="GitHub counter" width="130" />
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/Void_ID">
+    <img src="https://img.shields.io/badge/codepen-mediumseagreen?logo=CodePen&logoColor=white&style=for-the-badge" alt="CodePen Badge" style="border-radius: 10px;" />
+  </a>
+</p>
+
 </div>
 
 ---
